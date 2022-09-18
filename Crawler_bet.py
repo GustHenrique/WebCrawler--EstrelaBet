@@ -33,8 +33,8 @@ previous_victory2 = '//*[@id="content1"]/div[2]/div/div/div/div/div/div[2]/div/d
 
 ################################### X-PATHS  ###################################################
 
-team_url = 'vasco'
-team_all_name = 'CR Vasco da Gama RJ'
+team_url = 'cruzeiro'
+team_all_name = 'Cruzeiro MG'
 
 url = f"https://estrelabet.com/ptb/bet/search/{team_url}"
 
