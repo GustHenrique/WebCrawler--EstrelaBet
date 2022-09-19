@@ -76,7 +76,6 @@ fourth_text = (f'Os times {team_all_name} e {opposing_team} tiveram {previous_en
 separador = '----->---------------------------------------------->------------------------------------------->------------->---------------------------------------------->------------------------------------------->---------------------------------->--------'
 data = [first_text, second_text, third_text, fourth_text, separador]
 
-import pdb; pdb.set_trace()
 driver.close()
 file = open("next_games.txt", "a", newline="")
 for text in data:
