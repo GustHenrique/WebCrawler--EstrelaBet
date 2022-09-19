@@ -8,6 +8,7 @@ jogo ( vitória, empate e derrota)?
 
 ### Segue instruções iniciar o crawler
 
-1. Instalar as dependências com: pip install
+1. Instalar as dependências com: pip install selenium
+2. Verificar se o sistema operacional é Windows
 2. Verificar se a versão do python está em 3.10
 3. Rodar o código com python Crawler_bet.py
