@@ -8,7 +8,7 @@ import variables
 option = Options()
 option.headless = True
 driver = webdriver.Firefox()
-
+#teste
 team_url = 'cruzeiro'
 team_all_name = 'Cruzeiro MG'
 
